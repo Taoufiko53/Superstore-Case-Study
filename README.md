@@ -60,10 +60,9 @@ The goal was to create an interactive Power BI dashboard to evaluate **Sales, Pr
 ---
 
 ## 📷 Dashboard Preview
-🖼️ Dashboard Screenshot:  
-![Superstore Dashboard](./Images/superstore_dashboard.png)  
-
-👉 [Download the Power BI file](./Superstore_Dashboard.pbix)  
+Dashboard Screenshot:  
+![Superstore Dashboard](./Dashboard%20Superstore%20case..png)  
+ 
 
 ---
 
