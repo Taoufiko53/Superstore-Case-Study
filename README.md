@@ -16,6 +16,11 @@ The goal was to create an interactive Power BI dashboard to evaluate **Sales, Pr
 
 ---
 
+## Data Source:
+[Data source for Upload](https://www.kaggle.com/datasets/bitricks/superstore-dataset)
+
+---
+
 ##  Dashboard Insights
 
 ### 1. Metrics Overview
@@ -59,7 +64,7 @@ The goal was to create an interactive Power BI dashboard to evaluate **Sales, Pr
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 Dashboard Screenshot:  
 ![Superstore Dashboard](./Dashboard%20Superstore%20case..png)  
  
